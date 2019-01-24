@@ -2,3 +2,4 @@
 Git is free software distributed under the GPL.
 Git tracks changes.
 Stupid Boss.
+Creating a new branch is quick.
